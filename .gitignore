@@ -2,3 +2,4 @@ $ cat .gitignore
 *.tmp
 ~*.*
 /*/bin/
+.metadata/
