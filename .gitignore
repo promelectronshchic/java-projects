@@ -3,3 +3,6 @@ $ cat .gitignore
 ~*.*
 /*/bin/
 .metadata/
+
+# any files wich start from '~' after '.'
+*.~*.*
